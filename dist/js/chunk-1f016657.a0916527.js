@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-1f016657"],{"0fd7":function(n,t,e){"use strict";e.r(t);var c=function(){var n=this,t=n.$createElement;n._self._c;return n._m(0)},s=[function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{staticClass:"name-body"},[e("h3",[n._v("欢迎使用蓝天优购供货商系统!")])])}],u={},a=u,i=(e("7c43"),e("2877")),r=Object(i["a"])(a,c,s,!1,null,"4adde1b6",null);t["default"]=r.exports},"7c43":function(n,t,e){"use strict";e("99bd")},"99bd":function(n,t,e){}}]);
-//# sourceMappingURL=chunk-1f016657.a0916527.js.map
